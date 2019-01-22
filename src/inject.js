@@ -44,6 +44,7 @@ function processTimeline() {
 				tweet.addEventListener("click", revealTweet)
 				tweet.style = `
 					height: 70px;
+					overflow: hidden;
 				`
 		}
 	}
