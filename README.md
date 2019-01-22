@@ -1,2 +1,2 @@
 # Good ol Twitter
-See only your followers' tweets. No likes. No re-tweets.
+See only your followers' tweets. No likes. No retweets.

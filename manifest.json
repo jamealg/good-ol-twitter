@@ -2,7 +2,7 @@
   "name": "Good ol Twitter",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "See only your followers' tweets tweets. No likes. No re-tweets.",
+  "description": "See only your followers' tweets tweets. No likes. No retweets.",
   "homepage_url": "https://github.com/jamealg/good-ol-twitter",
   "content_scripts": [
     {
