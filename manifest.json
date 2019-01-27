@@ -1,9 +1,14 @@
 {
   "name": "Good ol Twitter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "See only your followers' tweets tweets. No likes. No retweets.",
   "homepage_url": "https://github.com/jamealg/good-ol-twitter",
+  "browser_action": {
+    "default_title": "Good ol Twitter",
+    "default_popup": "src/popup.html"
+  },
+  "permissions": [ "storage" ],
   "content_scripts": [
     {
       "matches": [
